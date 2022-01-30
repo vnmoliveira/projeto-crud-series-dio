@@ -1,0 +1,15 @@
+C:\Git\projeto-cadastro-series-dio\crud-series\obj\Debug\net6.0\crud-series.csproj.AssemblyReference.cache
+C:\Git\projeto-cadastro-series-dio\crud-series\obj\Debug\net6.0\crud-series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\projeto-cadastro-series-dio\crud-series\obj\Debug\net6.0\crud-series.AssemblyInfoInputs.cache
+C:\Git\projeto-cadastro-series-dio\crud-series\obj\Debug\net6.0\crud-series.AssemblyInfo.cs
+C:\Git\projeto-cadastro-series-dio\crud-series\obj\Debug\net6.0\crud-series.csproj.CoreCompileInputs.cache
+C:\Git\projeto-cadastro-series-dio\crud-series\bin\Debug\net6.0\crud-series.exe
+C:\Git\projeto-cadastro-series-dio\crud-series\bin\Debug\net6.0\crud-series.deps.json
+C:\Git\projeto-cadastro-series-dio\crud-series\bin\Debug\net6.0\crud-series.runtimeconfig.json
+C:\Git\projeto-cadastro-series-dio\crud-series\bin\Debug\net6.0\crud-series.dll
+C:\Git\projeto-cadastro-series-dio\crud-series\bin\Debug\net6.0\ref\crud-series.dll
+C:\Git\projeto-cadastro-series-dio\crud-series\bin\Debug\net6.0\crud-series.pdb
+C:\Git\projeto-cadastro-series-dio\crud-series\obj\Debug\net6.0\crud-series.dll
+C:\Git\projeto-cadastro-series-dio\crud-series\obj\Debug\net6.0\ref\crud-series.dll
+C:\Git\projeto-cadastro-series-dio\crud-series\obj\Debug\net6.0\crud-series.pdb
+C:\Git\projeto-cadastro-series-dio\crud-series\obj\Debug\net6.0\crud-series.genruntimeconfig.cache
